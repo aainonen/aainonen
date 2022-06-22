@@ -1,4 +1,4 @@
-I'm interested in machine learning and data visualizations.
+My interests are in data analytics and machine learning.
 
 I will be collecting my personal data science projects here.
 
